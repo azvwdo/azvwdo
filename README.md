@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por resolver problemas e construir soluções ef
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,bancodedados,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css" />
   </a>
 </p>
 
