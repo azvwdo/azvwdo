@@ -33,3 +33,8 @@ Sou um desenvolvedor apaixonado por resolver problemas e construir soluções ef
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azvwdo&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </p>
+### 🐍 Minha Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azvwdo/azvwdo/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
