@@ -32,9 +32,10 @@ Sou um desenvolvedor apaixonado por resolver problemas e construir soluções ef
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azvwdo&layout=compact&theme=dracula&hide_border=true" />
   </a>
-</p>
- 🕹️ Minha Atividade no GitHub
+   🕹️ Minha Atividade no GitHub
 
 <p align="center">
   <img src="https://pacman-contrib.vercel.app/api?username=azvwdo&theme=dark" alt="Pac-Man nas Contribuições" />
 </p>
+</p>
+
