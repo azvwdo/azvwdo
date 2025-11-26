@@ -23,13 +23,4 @@ Sou um desenvolvedor apaixonado por resolver problemas e construir soluções ef
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=azvwdo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azvwdo&layout=compact&theme=dracula&hide_border=true" />
-  </a>
-</p>
