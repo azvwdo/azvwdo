@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Sou um desenvolvedor apaixonado por resolver problemas e construir soluções eficientes. Atualmente focado em desenvolvimento backend com Java e Node.js.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 ---
 
